@@ -79,7 +79,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Full Stack Web developer Intern ',
     start: 'DEC-2024',
     end: 'FEB-2025',
-    link: 'https://ibelick.com',
+    link: 'https://drive.google.com/file/d/18xi7a8Y6t8v-uGhbvw6MKuqjBDlkiBFd/view?usp=sharing',
     id: 'work1',
   },
 ]
