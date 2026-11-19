@@ -77,9 +77,9 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
   {
     company: 'Crowdfeuz',
     title: 'Full Stack Web developer Intern ',
-    start: 'DEC-2024',
-    end: 'FEB-2025',
-    link: 'https://drive.google.com/file/d/18xi7a8Y6t8v-uGhbvw6MKuqjBDlkiBFd/view?usp=sharing',
+    start: 'DEC 2024',
+    end: 'FEB 2025',
+    link: 'https://drive.google.com/file/d/1KfrG6szWgFu20yTvjk3H2fqbdHBwekL2/view?usp=sharing',
     id: 'work1',
   },
 ]
